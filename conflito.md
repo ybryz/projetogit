@@ -1,1 +1,1 @@
-cor favoritaaa doo gatinho: azullll
+cor favoritaaa doo gatinho: roxo e azul
