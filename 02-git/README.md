@@ -1,4 +1,4 @@
-# 02 - Git: conflitos de merge
+   Conflitos de merge
 
 ## O que é um conflito
 Um conflito acontece quando duas branches alteram a **mesma parte do mesmo arquivo**
